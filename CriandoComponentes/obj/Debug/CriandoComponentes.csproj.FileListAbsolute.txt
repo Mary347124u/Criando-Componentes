@@ -1,0 +1,8 @@
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\obj\Debug\CriandoComponentes.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\obj\Debug\CriandoComponentes.MainForm.resources
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\obj\Debug\CriandoComponentes.csproj.GenerateResource.Cache
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\bin\Debug\CriandoComponentes.exe.config
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\bin\Debug\CriandoComponentes.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\bin\Debug\CriandoComponentes.pdb
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\obj\Debug\CriandoComponentes.exe
+C:\Users\DELL\Documents\SharpDevelop Projects\CriandoComponentes\CriandoComponentes\obj\Debug\CriandoComponentes.pdb
